@@ -1,0 +1,12 @@
+[
+    {
+        "question": "what is ai",
+        "answer": "Hello! I am VoxAI, your helpful AI assistant. \n\n**AI** stands for **Artificial Intelligence**. It refers to the simulation of human intelligence in machines that are programmed to think, learn, reason, and solve problems like humans. \n\nAt its core, AI is a broad branch of computer science that aims to create systems capable of performing tasks that typically require human cognition, such as:\n\n*   **Learning:** Acquiring data and rules for using the data.\n*   **Reasoning:** Using rules to reach approximate or definite conclusions.\n*   **Problem Solving:** Finding solutions to complex or novel challenges.\n*   **Perception:** Understanding and processing sensory inputs, like recognizing faces or understanding spoken language (like speech-to-text or natural language processing).\n*   **Creativity:** Generating art, music, or text (just like I am doing right now!).\n\nYou interact with AI every day—from the recommendation algorithms on streaming services and GPS navigation apps to virtual assistants (like me!) and automated customer service chats. \n\nIs there a specific type of AI you are curious about, such as machine learning or generative AI?",
+        "timestamp": "2026-10-14T11:00:37.200984+00:00"
+    },
+    {
+        "question": "what is chat gpt",
+        "answer": "Hello! I am VoxAI, a helpful AI assistant. \n\nChatGPT is a large language model created by OpenAI. It is designed to understand and generate human-like text based on the prompts and questions it receives. You can think of it as an advanced conversational AI that can help you with a wide variety of tasks, such as writing, coding, answering questions, brainstorming, and summarizing information.",
+        "timestamp": "2026-10-14T11:00:53.451013+00:00"
+    }
+]
